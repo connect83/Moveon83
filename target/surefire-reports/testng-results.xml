@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="61" started-at="2019-11-08T16:49:49Z" finished-at="2019-11-08T16:49:49Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="61" started-at="2019-11-08T16:49:49Z" finished-at="2019-11-08T16:49:49Z">
+      <class name="Qaclickacademy.seleniumTest">
+        <test-method status="PASS" signature="Browserautomation()[pri:0, instance:Qaclickacademy.seleniumTest@668bc3d5]" name="Browserautomation" duration-ms="4" started-at="2019-11-08T16:49:49Z" finished-at="2019-11-08T16:49:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserautomation -->
+        <test-method status="PASS" signature="elementsui()[pri:0, instance:Qaclickacademy.seleniumTest@668bc3d5]" name="elementsui" duration-ms="0" started-at="2019-11-08T16:49:49Z" finished-at="2019-11-08T16:49:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsui -->
+      </class> <!-- Qaclickacademy.seleniumTest -->
+      <class name="Qaclickacademy.appiumTest">
+        <test-method status="PASS" signature="iosapp()[pri:0, instance:Qaclickacademy.appiumTest@380fb434]" name="iosapp" duration-ms="11" started-at="2019-11-08T16:49:49Z" finished-at="2019-11-08T16:49:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iosapp -->
+        <test-method status="PASS" signature="mobileapp()[pri:0, instance:Qaclickacademy.appiumTest@380fb434]" name="mobileapp" duration-ms="0" started-at="2019-11-08T16:49:49Z" finished-at="2019-11-08T16:49:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileapp -->
+      </class> <!-- Qaclickacademy.appiumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
