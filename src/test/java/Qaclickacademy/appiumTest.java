@@ -9,6 +9,7 @@ public class appiumTest {
 		System.out.println("mobileapp");
 		System.out.println("mobileapp1");
 		System.out.println("mobileapp2");
+		System.out.println("mobileapp3");
 	}
 	@Test
 	public void iosapp()
